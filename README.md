@@ -43,9 +43,9 @@ The following visualizations were created and are consistent across the notebook
 Overall, the analysis highlights long-term safety improvements while identifying areas where targeted risk mitigation may be needed.
 
 ## Links
-- **Interactive Tableau Dashboard:** [Paste your Tableau link here]
+- **Interactive Tableau Dashboard:** [ https://public.tableau.com/app/profile/layla.isse/viz/AviationinteractiveDashboard/Dashboard1 ]
 - **Presentation (PDF):** presentation.pdf
-- **Jupyter Notebook:** analysis.ipynb
+- **Jupyter Notebook:** student.ipynb
 
 
 
